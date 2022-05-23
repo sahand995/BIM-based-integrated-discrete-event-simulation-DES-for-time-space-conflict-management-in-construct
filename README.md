@@ -1,0 +1,2 @@
+# BIM-based-integrated-discrete-event-simulation-DES-for-time-space-conflict-management-in-construct
+This study proposes a novel integrated approach as a method of time-space management in construction project sites. Our Proposed Unity-based method implements Discrete Event Simulation (DES), Building Information Modeling (BIM), and Informed Rapidly-exploring Random Tree-Star (Informed-RRT*) path planning, to automatically detect, evaluate, and resolve time-space conflicts throughout construction projects.
